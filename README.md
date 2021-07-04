@@ -6,7 +6,7 @@
 
 ## Notes
 
-1. 本脚本只支持 x86_64 (amd64) 架构，其他架构都不支持。ARM 用户建议使用 [QuickBox ARM](https://github.com/amefs/quickbox-arm)  
+1. 本脚本只支持 x86_64 (amd64) 架构，其他架构都不支持。ARM 用户建议使用 [QuickBox ARM](https://github.com/amefs/quickbox-arm)
 2. 本脚本只在独服和 KVM 虚拟化的 VPS 下测试，OpenVZ、Xen 等其他虚拟化架构仍可以尝试使用，但不保证没问题  
 3. 本脚本目前支持 Debian 9/10, Ubuntu 16.04/18.04. *推荐使用 Debian 10 或 Ubuntu 18.04*  
 4. 本文的使用说明中的图片是一两年前的，与当前脚本存在较大出入（但文字内容是及时更新的）  
